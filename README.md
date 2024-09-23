@@ -1,0 +1,1 @@
+# plugins-disable-cart-page-for-woocommerce
