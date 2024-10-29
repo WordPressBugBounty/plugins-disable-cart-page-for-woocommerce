@@ -6,16 +6,16 @@
     Description: Disable cart page and redirect to checkout for each purchase.
     Author: Code4Life
     Author URI: https://code4life.it/
-    Version: 1.2.7
+    Version: 1.2.8
     Text Domain: disable-cart-page-for-woocommerce
  	Domain Path: /i18n/
 	License: GPLv3
 	License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-    Tested up to: 6.3
+    Tested up to: 6.6
 
     WC requires at least: 2.0
-    WC tested up to: 7.9
+    WC tested up to: 9.3
  */
 
 // Exit if accessed directly
